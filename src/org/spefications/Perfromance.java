@@ -16,4 +16,9 @@ public class Perfromance {
 		
 		System.out.println("babu");
 	}
+	
+	private void sysou() {
+		// TODO Auto-generated method stub
+		System.out.println("dorababu");
+	}
 }
